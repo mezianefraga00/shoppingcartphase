@@ -1,7 +1,4 @@
-[submodule "flatiron/countersproject"]
-	path = flatiron/countersproject
-<<<<<<< HEAD
+  
+[submodule "countersproject"]
+	path = countersproject
 	url = https://github.com/mezianefraga00/countersproject
-=======
-	url = https://github.com/mezianefraga00/countersproject/
->>>>>>> f6a565f19a1c2316af875e403e348f84c0097b62
