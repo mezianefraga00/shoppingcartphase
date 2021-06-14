@@ -1,3 +1,3 @@
 [submodule "countersproject"]
-	path = countersproject/submodule
+	path = meziane/flatiron/countersproject
 	url = https://github.com/mezianefraga00/countersproject
